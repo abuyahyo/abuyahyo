@@ -15,4 +15,4 @@
 *   **Development:** Node.js, Express, React, Java (Android), PostgreSQL (Supabase).
 *   **Languages:** Русский, Узбекский, Арабский (Египетский диалект, MSA).
 
-📫 Связаться со мной: [вставь сюда ссылку на свой Telegram или почту]
+📫 Связаться со мной: [Telegram](https://t.me/AbuYahyo_Ismoil) | [Email](mailto:abu.yahyo.ismoil@gmail.com) | [Портфолио (Havola)](https://abuyahyo.github.io/havola/)
